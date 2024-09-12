@@ -14,3 +14,9 @@ return area
 }
 let area= calculateandreturnArea(6,9)
 console.log(area)
+
+function calculatetheTotalCost(){
+    let items=[
+    {item:"Shirt", price: 15, quantity:1},
+    {item:"Shoe", price:120, quantity:1}]
+}
